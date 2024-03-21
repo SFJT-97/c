@@ -8,9 +8,9 @@ int main()
     char im[50] = " ";
     char getting[50] = " ";
 
-    strcat(hello, "Hello "); /* store world in hello */
-    strcat(im, "I'm "); /* store just in im */
-    strcat(getting, "getting "); /* store started in getting */
+    strcat(hello, "Hello "); /* store word in hello */
+    strcat(im, "I'm "); /* store word in im */
+    strcat(getting, "getting "); /* store word in getting */
  
     char world[] = "World!";
     char just[] = "just";
